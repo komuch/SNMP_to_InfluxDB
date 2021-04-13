@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # Read number of PPPoE connections from BRAS/LNG devices via SNMP and send to InfluxDB
-# (c) 2021 Piotr Smolen
+# (c) 2021 Piotr Smolen <komuch@gmail.com>
 
 import json
 from easysnmp import Session
